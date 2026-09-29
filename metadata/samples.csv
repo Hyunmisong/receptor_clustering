@@ -1,0 +1,23 @@
+image,condition,time_min
+1-1,No ligand (0 min),0
+1-2,No ligand (0 min),0
+2-1,2 min,2
+2-2,2 min,2
+2-3,2 min,2
+2-4,2 min,2
+3-1,5 min,5
+3-2,5 min,5
+3-3,5 min,5
+3-4,5 min,5
+3-5,5 min,5
+3-6,5 min,5
+5-1,10 min,10
+5-2,10 min,10
+5-3,10 min,10
+5-4,10 min,10
+5-5,10 min,10
+6-1,30 min,30
+6-2,30 min,30
+6-3,30 min,30
+6-4,30 min,30
+6-5,30 min,30
