@@ -45,6 +45,12 @@ The image → condition mapping is defined in [`metadata/samples.csv`](metadata/
 
 Raw `.czi` files are not tracked in git (~40 MB each, see `.gitignore`).
 
+## Example cells
+
+| No ligand (CV 0.81) | 5 min (CV 1.51) |
+|---|---|
+| ![no ligand](results/per_cell/1-2_cell04.png) | ![5 min](results/per_cell/3-6_cell13.png) |
+
 ## Outputs (`results/`)
 
 | File | Description |
